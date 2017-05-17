@@ -1,1 +1,23 @@
+Final Project
+1. Content of A, T, C, G and GC content
+   Content of 16 dinucleotides: **consider both reading frames
+   content of 20 amino acids and 400 di-amino acids
 
+-  consider 2 reading frames
+- bash script to inspect the large genome files
+- decide whether undefined nucleotide (those are non-ATCG) should be included
+
+2. ORF finder
+- Principle: 6 open reading frames, start codon and stop codons, length, non-overlapping
+- Probability model?
+- For eukaryotes?
+
+3. Comparison with GLIMMER HMM:
+- number of genes
+- length of genes (histogram)
+- amino acid composition
+- coverage
+
+4. Distance matrix
+- use statistics from 1 
+- literature search, decide which one should be used (can be deduced phylogenic tree)
