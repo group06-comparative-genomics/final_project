@@ -1,0 +1,63 @@
+03.protein.fa
+{'P', 'E', 'N', 'K', 'G', 'H', 'A', 'M', 'I', 'V', 'C', 'F', 'X', 'L', 'T', 'S', 'W', 'Q', 'R', 'D', 'Y'}, total number 21
+freq_P= 0.03770406568042972
+freq_E= 0.06198760353321553
+freq_N= 0.052594229424804406
+freq_K= 0.06391979418071018
+freq_G= 0.06806697792501461
+freq_H= 0.019463014943445364
+freq_A= 0.067015983315241
+freq_M= 0.0261882094213616
+freq_I= 0.06911738702247079
+freq_V= 0.06297184973880296
+freq_C= 0.01272376816991099
+freq_F= 0.04742591219891493
+freq_X= 0.0030347103412014477
+freq_L= 0.08929004289463237
+freq_T= 0.05787906360186099
+freq_S= 0.06384660514103235
+freq_W= 0.013492545842686892
+freq_Q= 0.03562725349053168
+freq_R= 0.04600194624294311
+freq_D= 0.05487655643811779
+freq_Y= 0.04677248045267128
+
+number of sequence= 4171
+start amino acid every sequence:
+number of label X= 1
+frequency of label X= 0.0002397506593143131
+number of label L= 311
+frequency of label L= 0.07456245504675138
+number of label V= 437
+frequency of label V= 0.10477103812035483
+number of label M= 3422
+frequency of label M= 0.8204267561735795
+
+08.protein.fa
+number of sequence= 1863
+start amino acid every sequence:
+number of label L= 207
+frequency of label L= 0.1111111111111111
+number of label V= 176
+frequency of label V= 0.09447128287707998
+number of label M= 1480
+frequency of label M= 0.7944176060118089
+
+09.protein.fa
+number of sequence= 5323
+start amino acid every sequence:
+number of label L= 313
+frequency of label L= 0.0588014277662972
+number of label V= 745
+frequency of label V= 0.13995866992297576
+number of label M= 4265
+frequency of label M= 0.8012399023107271
+18.protein.fa
+number of sequence= 3791
+start amino acid every sequence:
+number of label L= 431
+frequency of label L= 0.11369031917699815
+number of label V= 507
+frequency of label V= 0.13373780005275654
+number of label M= 2853
+frequency of label M= 0.7525718807702453
