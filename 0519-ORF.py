@@ -107,7 +107,7 @@ for i in range(0,len(line_list),1):
 #print(line_list)
 h.close()
 
-###Annex5
+###Annex5 Count for the max & min length of the DNA sequences predicted by Glimmer.
 #h=open('03.longorf')
 o=open('03.longorf.oneline')
 line_list=[]
@@ -133,7 +133,7 @@ for i in line_list:
 print (maxlen,maxlenseq,minlen,minlenseq)
 o.close()
 
-###Annex6
+###Annex6 Count for the nucleotides in the original genome which are not A,C,G or T.
 f=open('03.fa.txt')
 unique_set=set()
 num_uni=0
