@@ -4,3 +4,12 @@ Discriptions for the files:
 
 '03.predictedgenes.50.fa' is the predicted gene sequences by our own code, with orf length threshold=50. '03.predictedgenes.100-1.fa' is the multifasta file of predicted gene sequences with orf length threshold=100. '-1' means it starts to read from the first position of the genome. For species 03, all the three reading frames give the same result.
 
+'0517_amino_acids_freq.py' gives out the frequencies of all amino acids which show up in 03.protein.fa. '0517_aminoacids_counting.py' explores what kinds of amino acids are contained in 03.protein.fa.
+
+'0519 Exploring Protein Files from Glimmer'(docx file) records the information of proteomes as well as genomes(frequencies of amino acids, total number of nucleotides, etc), and should be kept updating...
+
+'0519-ORF.py' consists of several parts: 
+
+'0519exploring_prot.py' gives out the information of the first amino acids of the predicted proteome by Glimmer.
+
+'0519simpleorf.py' is just an earlier version of '0519-ORF.py'...I forgot I have uploaded it...
