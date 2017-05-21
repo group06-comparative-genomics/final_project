@@ -8,8 +8,8 @@ Discriptions for the files:
 
 '0519 Exploring Protein Files from Glimmer'(docx file) records the information of proteomes as well as genomes(frequencies of amino acids, total number of nucleotides, etc), and should be kept updating...
 
-'0519-ORF.py' consists of several parts: 
+'0519-ORF.py' is the main code for orf prediction. Up till now it can only predict from 'ATG' to one of the three stop codons. I think we may need Machine Learning methods for better prediction? It consists of several parts, with each part interpreted by the comments above. As I use ipython I just put all the codes together and paste the part I need when I run it...
 
 '0519exploring_prot.py' gives out the information of the first amino acids of the predicted proteome by Glimmer.
 
-'0519simpleorf.py' is just an earlier version of '0519-ORF.py'...I forgot I have uploaded it...
+'0519simpleorf.py' is just an earlier version of '0519-ORF.py'...I forgot I have uploaded it...Thus it can be discarded.
